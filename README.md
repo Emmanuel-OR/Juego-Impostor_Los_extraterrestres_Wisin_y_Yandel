@@ -1,12 +1,5 @@
 # Juego-Impostor
 POO
-Diagramas de Clase Versión 1 
-
-<img width="1074" height="1504" alt="image" src="https://github.com/user-attachments/assets/bddd50af-9ae3-420f-af05-2f33c82d031a" />
-<img width="1076" height="1560" alt="image" src="https://github.com/user-attachments/assets/4bafb98a-1b5a-44d2-bd3c-d80dd5e8c344" />
-<img width="1066" height="1578" alt="image" src="https://github.com/user-attachments/assets/57d4664d-79d3-4580-8491-76141f3d46b7" />
-<img width="1082" height="1596" alt="image" src="https://github.com/user-attachments/assets/be5585b1-ff2b-4eb8-97dd-69f664b2bba2" />
-
 Diagramas de Clase corregidos
 
 1.Diagrama de Clases de Interfaces y Abstracciones
@@ -19,3 +12,13 @@ Diagramas de Clase corregidos
 3.Diagrama de Clases de Modelo
 <img width="738" height="798" alt="image" src="https://github.com/user-attachments/assets/83d24d0a-0f56-4e73-a55c-15c78aba6f5b" />
 <img width="842" height="822" alt="image" src="https://github.com/user-attachments/assets/5bed77a4-4e7d-40e7-88c2-61bcd4e39a5f" />
+
+4.Diagrama de Secuencia de Ronda
+<img width="5655" height="5735" alt="Ronda de Acusación y Votación Flow-2026-11-18-172809" src="https://github.com/user-attachments/assets/e57bee6c-3e1c-4b50-b5b7-27f592d2332c" />
+
+Diagramas de Clase Versión 1 
+
+<img width="1074" height="1504" alt="image" src="https://github.com/user-attachments/assets/bddd50af-9ae3-420f-af05-2f33c82d031a" />
+<img width="1076" height="1560" alt="image" src="https://github.com/user-attachments/assets/4bafb98a-1b5a-44d2-bd3c-d80dd5e8c344" />
+<img width="1066" height="1578" alt="image" src="https://github.com/user-attachments/assets/57d4664d-79d3-4580-8491-76141f3d46b7" />
+<img width="1082" height="1596" alt="image" src="https://github.com/user-attachments/assets/be5585b1-ff2b-4eb8-97dd-69f664b2bba2" />
