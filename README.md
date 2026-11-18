@@ -4,15 +4,19 @@ Diagramas de Clase corregidos
 
 1.Diagrama de Clases de Interfaces y Abstracciones
 <img width="858" height="714" alt="image" src="https://github.com/user-attachments/assets/97a13705-e64a-4362-a887-a5097e2edad8" />
+
 <img width="921" height="312" alt="image" src="https://github.com/user-attachments/assets/78262699-6ab8-4c1a-b8f4-d33957b8d8f3" />
 
 2.Diagrama de Clases de arquitectura MVC
+
 <img width="892" height="776" alt="image" src="https://github.com/user-attachments/assets/ab0eceb4-b0eb-4c3b-9c39-adf42458fa74" />
+
 
 3.Diagrama de Clases de Modelo
 <img width="738" height="798" alt="image" src="https://github.com/user-attachments/assets/83d24d0a-0f56-4e73-a55c-15c78aba6f5b" />
 
 <img width="842" height="822" alt="image" src="https://github.com/user-attachments/assets/5bed77a4-4e7d-40e7-88c2-61bcd4e39a5f" />
+
 
 4.Diagrama de Secuencia de Ronda
 <img width="5655" height="5735" alt="Ronda de Acusación y Votación Flow-2026-11-18-172809" src="https://github.com/user-attachments/assets/e57bee6c-3e1c-4b50-b5b7-27f592d2332c" />
