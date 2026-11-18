@@ -11,6 +11,7 @@ Diagramas de Clase corregidos
 
 3.Diagrama de Clases de Modelo
 <img width="738" height="798" alt="image" src="https://github.com/user-attachments/assets/83d24d0a-0f56-4e73-a55c-15c78aba6f5b" />
+
 <img width="842" height="822" alt="image" src="https://github.com/user-attachments/assets/5bed77a4-4e7d-40e7-88c2-61bcd4e39a5f" />
 
 4.Diagrama de Secuencia de Ronda
